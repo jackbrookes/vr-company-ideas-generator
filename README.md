@@ -4,4 +4,4 @@
 
 Generates random, but plausible, VR company ideas. Modify `data.json` to change the words used in generation. 
 
-[Live demo](http://jackbrookes.github.io/vr-company-ideas-generator)
+[Live demo](http://jackbrookes.github.io/vr-company-idea-generator)
